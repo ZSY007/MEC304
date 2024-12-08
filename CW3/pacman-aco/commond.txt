@@ -1,0 +1,3 @@
+Python pacman.py -p AntAgent -l easy
+Python pacman.py -p AntAgent -l medium
+Python pacman.py -p AntAgent -l challenge
